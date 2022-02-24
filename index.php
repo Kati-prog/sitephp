@@ -51,6 +51,7 @@ $animal2->bark();
 var_dump($animal2);
 /*3. Дан код:
 
+
 class A {
     public function foo() {
         static $x = 0;
